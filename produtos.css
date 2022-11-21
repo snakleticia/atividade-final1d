@@ -1,5 +1,5 @@
 header {
-	background: #BBBBBB;
+	background: #d3d3d3;
 	padding: 20px 0;
 }
 
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #C78C19;
+	color: #993399;
 	text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #FF0084;
 }
 
 .produtos li:active {
@@ -60,7 +60,7 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 32px;
 }
 
 .produtos h2 {
